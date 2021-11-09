@@ -1,1 +1,3 @@
 Just anothe rfile ...
+
+This file was mi modified locally
