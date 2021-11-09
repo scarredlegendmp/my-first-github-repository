@@ -1,3 +1,7 @@
 Just anothe rfile ...
 
+This line was replaced in feature-2 branch
+
 This file was mi modified locally
+
+Thi sline was replaced in feature-2 branch
